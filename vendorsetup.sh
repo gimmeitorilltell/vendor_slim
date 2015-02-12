@@ -65,6 +65,7 @@ add_lunch_combo slim_p5100-userdebug
 add_lunch_combo slim_p5110-userdebug
 add_lunch_combo slim_p700-userdebug
 add_lunch_combo slim_pyramid-userdebug
+add_lunch_combo slim_quincyatt-userdebug
 add_lunch_combo slim_shamu-userdebug
 add_lunch_combo slim_sirius-userdebug
 add_lunch_combo slim_skyrocket-userdebug
